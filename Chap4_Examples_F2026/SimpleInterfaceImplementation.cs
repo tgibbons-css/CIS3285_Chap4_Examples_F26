@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chap4_Examples_F2020
+namespace Chap4_Examples_F2026
 {
     /// <summary>
     /// 
@@ -20,7 +20,7 @@ namespace Chap4_Examples_F2020
         {
             get;
             set;
-        }
+        } = string.Empty;
 
         public int ThisIntegerPropertyOnlyNeedsAGetter
         {
